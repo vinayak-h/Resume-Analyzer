@@ -187,9 +187,3 @@ If ``GeocoderUnavailable`` error comes up then just check your internet connecti
 * [ ] View individual user details.
 
 
-
-## Acknowledgement 
-- <a href="https://www.linkedin.com/in/mrbriit/">Dr Bright</a> - <a href="https://www.udemy.com/course/the-full-stack-data-scientist-bootcamp/">(The Full Stack Data Scientist BootCamp)</a>
-- <a href="https://www.academia.edu/32543544/Resume_Parser_with_Natural_Language_Processing">Resume Parser with Natural Language Processing</a>
-- <a href="https://github.com/OmkarPathak/pyresparser">pyresparser</a>
-

@@ -3,14 +3,8 @@
   <h1> RESUME ANALYZER </h1>
   <p>A Tool for Resume Analysis, Predictions and Recommendations</p>
   
-  <!--links-->
-  <h4>
-    <a href="#preview-">View Demo</a>
-    <span> · </span>
-    <a href="#setup--installation-">Installation</a>
-    
-  </h4>
-  <small align="justify">🚀 A Project Submitted for the partial fulfilment of the degree MCA  at 
+
+  <small align="justify">🚀 A Project Submitted for the partial fulfilment of the Masters Degree MCA  at 
     <a href="https://pes.edu/">PES University</a> during academic year 2022-24
   </small>
 </div><br/><br/>
@@ -37,7 +31,7 @@ v. Also, to get analytics for roles which users are mostly looking for
 vi. To improve this tool by getting feedbacks
 
 <!-- TechStack -->
-## Tech Stack 🍻
+## Tech Stack 
 <details>
   <summary>Frontend</summary>
   <ul>
@@ -75,7 +69,7 @@ vi. To improve this tool by getting feedbacks
 </details>
 
 <!-- Features -->
-## Features 🤦‍♂️
+## Features 
 ### Client: -
 - Fetching Location and Miscellaneous Data
 
@@ -184,7 +178,7 @@ If ``GeocoderUnavailable`` error comes up then just check your internet connecti
 - Admin userid is ``admin`` and password is ``admin@resume-analyzer``
 
 <!-- Roadmap -->
-## Roadmap 🛵
+## Roadmap 
 * [x] Predict user experience level.
 * [x] Add resume scoring criteria for skills and projects.
 * [x] Added fields and recommendations for web, android, ios, data science.
